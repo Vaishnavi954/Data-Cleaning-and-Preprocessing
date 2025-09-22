@@ -3,7 +3,7 @@ Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent
 Tools: Excel / Python (Pandas)
 Deliverables: Cleaned dataset + short summary of changes
 
-cleaned the data in excel 
+cleaned the data in excel. 
 Identify and handle missing values using  filters in Excel.
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-22 115300" src="https://github.com/user-attachments/assets/e52a5cf2-3dd2-4d97-8458-61603b1bb75b" />
