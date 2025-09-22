@@ -1,6 +1,7 @@
 # 📊 Netflix Dataset Cleaning 
 
 ## 🧠 Overview
+
 The objective was to clean and prepare a raw dataset for analysis using Excel and/or Python (Pandas).
 I chose the **Netflix Movies and TV Shows** dataset from Kaggle and performed a series of preprocessing steps to ensure data quality and consistency.
 ---
@@ -28,6 +29,7 @@ The dataset includes metadata about Netflix titles such as:
 - **Verified Data Types**: Ensured correct types for each column (e.g., integers for year, datetime for dates).
 ---
 ## 📈 Summary of Changes
+
 The dataset was cleaned to remove inconsistencies, missing entries, and formatting issues. These changes improve its readiness for analysis, visualization, or modeling tasks.
 ---
 
